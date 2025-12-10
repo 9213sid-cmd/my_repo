@@ -1,4 +1,5 @@
 # Design Optimization of High-Rise Buildings: An Aerodynamic Study using Computational Fluid Dynamics (CFD)
 
 ## Subtitle: A Two-Stage Python Workflow for Twist Angle Optimization and Visualization
-
+### 1. Introduction and Project Goal
+This document describes a two-stage computational workflow developed in Python to investigate the impact of façade twisting on the aerodynamic performance of tall buildings, measured by their resistance to wind flow (drag reduction and wake minimization). The methodology utilizes a simplified Lattice-Boltzmann based CFD model implemented within the $\text{COMPAS}$ framework for rapid iterative analysis.The primary goal of this project is twofold:Optimization: To determine the single optimal twist angle that minimizes the wind resistance score across 360 geometric variations of a conceptual building mass.Visualization: To apply the optimal angle to a customized, scaled-up DNA-style building design and visualize the resulting complex flow patterns using $\text{CFD}$ stream-lines.
