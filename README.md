@@ -5,8 +5,8 @@
 Introduction and Project GoalThis document describes a two-stage computational workflow developed in Python to investigate the impact of façade twisting on the aerodynamic performance of tall buildings, measured by their resistance to wind flow (drag reduction and wake minimization). The methodology utilizes a simplified Lattice-Boltzmann based CFD model implemented within the $\text{COMPAS}$ framework for rapid iterative analysis.
 
 $\text{The primary goal of this project is twofold}$
-1.  Optimization: To determine the single optimal twist angle that minimizes the wind resistance score across 360 geometric variations of a conceptual building mass.
-2.  Visualization: To apply the optimal angle to a customized, scaled-up DNA-style building design and visualize the resulting complex flow patterns using $\text{CFD}$ stream-lines.
+1.1  Optimization: To determine the single optimal twist angle that minimizes the wind resistance score across 360 geometric variations of a conceptual building mass.
+1.2  Visualization: To apply the optimal angle to a customized, scaled-up DNA-style building design and visualize the resulting complex flow patterns using $\text{CFD}$ stream-lines.
 
 ### 2. Stage I: Optimization and Analysis (building_generator.ipynb)
 The first stage is dedicated to systematically exploring the design space and identifying the best performing geometry. This process is handled by the building_generator.ipynb script (which aligns with the wind_analysis.ipynb discussion).
