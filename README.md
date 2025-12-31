@@ -37,10 +37,12 @@ The final step is to combine the refined geometry and the $\text{CFD}$ data for 
 This two-stage workflow demonstrates an effective coupling of computational geometry and fluid dynamics analysis. By systematically optimizing a single geometric variable (twist angle) in Stage I and then applying and visualizing the result on a detailed, scaled-up model in Stage II, the project provides both a quantitative validation (through the score) and a qualitative understanding (through the flow visualization) of how architectural massing can be leveraged to mitigate adverse wind effects.
 
 <img width="1451" height="392" alt="螢幕擷取畫面 2025-12-31 135814" src="https://github.com/user-attachments/assets/e6428bbf-2030-4cd4-b893-3ffe76141ef3" />
+building_generator
 <img width="1511" height="459" alt="螢幕擷取畫面 2025-12-31 135829" src="https://github.com/user-attachments/assets/20001e71-cb37-4cdd-be7d-b2651e3ed4d6" />
+building_generator
 <img width="1397" height="843" alt="螢幕擷取畫面 2025-12-31 133459" src="https://github.com/user-attachments/assets/e386fc2c-9a52-4670-845e-8ccab92f8b38" />
+dna_building_CFD_generator
 <img width="1372" height="798" alt="螢幕擷取畫面 2025-12-31 133506" src="https://github.com/user-attachments/assets/96565412-1ce5-4abd-a6fb-d0f6e218e7c0" />
+dna_building_CFD_generator
 <img width="1330" height="839" alt="螢幕擷取畫面 2025-12-31 133518" src="https://github.com/user-attachments/assets/a60b0af3-f880-4e4b-814a-9cff87562e8c" />
-
-
-
+dna_building_CFD_generator
