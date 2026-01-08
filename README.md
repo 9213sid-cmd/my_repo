@@ -35,3 +35,9 @@ The final step is to combine the refined geometry and the $\text{CFD}$ data for 
 ### 4.  Conclusion
 
 This two-stage workflow demonstrates an effective coupling of computational geometry and fluid dynamics analysis. By systematically optimizing a single geometric variable (twist angle) in Stage I and then applying and visualizing the result on a detailed, scaled-up model in Stage II, the project provides both a quantitative validation (through the score) and a qualitative understanding (through the flow visualization) of how architectural massing can be leveraged to mitigate adverse wind effects.
+
+<img width="1451" height="392" alt="螢幕擷取畫面 2025-12-31 135814" src="https://github.com/user-attachments/assets/bdb5e8af-9f14-4a58-8c3a-4d7a86c04b61" />
+<img width="1511" height="459" alt="螢幕擷取畫面 2025-12-31 135829" src="https://github.com/user-attachments/assets/3718f845-6040-4b09-a744-dfd2c73a4514" />
+<img width="1397" height="843" alt="螢幕擷取畫面 2025-12-31 133459" src="https://github.com/user-attachments/assets/3284fc3a-54de-40fa-a2eb-8a8196d8d00e" />
+<img width="1372" height="798" alt="螢幕擷取畫面 2025-12-31 133506" src="https://github.com/user-attachments/assets/261e6c51-6ac7-4529-a4b7-8691bbefe58a" />
+<img width="1330" height="839" alt="螢幕擷取畫面 2025-12-31 133518" src="https://github.com/user-attachments/assets/d1af2383-c794-4588-8fc0-f53438fc5b57" />
